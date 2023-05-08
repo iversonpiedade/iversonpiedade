@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iversonpiedade
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning GIT, Typescript, Javascript, React and Next.js
+- 🌱 I’m currently learning ot to build serveless web apps
 - 💞️ I’m looking to collaborate on any project related to what I'm learning
 - 📫 You can reach me on instagram [@iversonpiedade](https://instagram.com/iversonpiedade)
 
